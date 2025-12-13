@@ -1,0 +1,388 @@
+# Análise de Concorrentes - Blue-Copilot / Helion
+
+## Visão Geral
+
+Este documento analisa os principais concorrentes no mercado brasileiro de software para licitações, identificando funcionalidades, pontos fortes, fracos e oportunidades de diferenciação.
+
+---
+
+## Mapa do Mercado
+
+```
+                        AUTOMAÇÃO
+                           ↑
+                           |
+        Effecti ●          |         ● Blue-Copilot (futuro)
+                           |
+    eLicitação ●           |
+                           |
+   Lance Fácil ●           |
+                           |
+   Siga Pregão ●           |
+                           |
+←──────────────────────────┼──────────────────────────→
+   BUSCA DE EDITAIS        |        GESTÃO COMPLETA
+                           |
+                           |
+      Licita Já ●          |
+                           |
+   Alerta Licitação ●      |
+                           |
+                           |
+                           ↓
+                        MANUAL
+```
+
+---
+
+## 1. Effecti (Minha Effecti)
+
+### Dados Gerais
+
+| Atributo | Valor |
+|----------|-------|
+| **Site** | effecti.com.br |
+| **Fundação** | ~2015 |
+| **Sede** | Santa Catarina |
+| **Posição** | Líder de mercado |
+| **Clientes** | +1.400 empresas |
+
+### Funcionalidades
+
+| Categoria | Funcionalidade | Descrição |
+|-----------|----------------|-----------|
+| **Captação** | Monitoramento de portais | +1.500 portais, 60 mil oportunidades/mês |
+| **Captação** | Filtros inteligentes | Palavra-chave, região, valor, segmento |
+| **Captação** | Alertas | Email, app, push |
+| **Proposta** | Cadastro automático | Reduz 80% do tempo de preenchimento |
+| **Disputa** | Robô de lances | Configuração de estratégia (posição, valor mínimo) |
+| **Disputa** | Chat do pregoeiro | Alertas via app, web, smartwatch |
+| **IA** | Aimê | Destaca cláusulas, interpreta editais |
+| **BI** | Análise de concorrentes | Histórico de preços, participações |
+| **Mobile** | App | iOS e Android |
+
+### Planos (estimativa - não publicam valores)
+
+| Plano | Perfil | Estimativa |
+|-------|--------|------------|
+| **Starter** | Iniciantes | R$ 200-300/mês |
+| **Básico** | Poucos pregões | R$ 400-500/mês |
+| **Avançado** | Volume médio | R$ 600-800/mês |
+| **Enterprise** | Grande volume | Sob consulta |
+
+### Pontos Fortes
+
+- Líder de mercado, marca consolidada
+- Maior cobertura de portais (+1.500)
+- IA para leitura de editais (Aimê)
+- App mobile completo
+- Robô de lances maduro
+- Conteúdo educacional forte (blog, e-books, eventos)
+
+### Pontos Fracos
+
+- Preço elevado para ME/EPP
+- Interface datada (baseado em relatos)
+- Foco em automação, menos em gestão pós-licitação
+- Sem gestão de contratos/empenhos/pagamentos
+- Curva de aprendizado alta
+
+### Oportunidades para Blue-Copilot
+
+- Ciclo completo (pré → durante → pós)
+- Preço mais acessível para ME/EPP
+- Interface moderna
+- Gestão de documentos integrada
+- Agentes de IA mais avançados (Claude vs GPT)
+
+---
+
+## 2. eLicitação
+
+### Dados Gerais
+
+| Atributo | Valor |
+|----------|-------|
+| **Site** | elicitacao.com.br |
+| **Posição** | Segundo maior player |
+| **Foco** | Modular (compra por módulo) |
+
+### Módulos
+
+| Módulo | Função |
+|--------|--------|
+| **eLicitaBoletim** | Captação de editais, filtros, gestão de oportunidades |
+| **eLicitaProposta** | Automação de cadastro de propostas |
+| **eLicitaDisputa** | Robô de lances automáticos |
+| **eLicitaRadar** | Alertas (pop-up, email, app Android/iOS) |
+
+### Planos eLicitaDisputa
+
+| Plano | Licitações simultâneas | Portais |
+|-------|------------------------|---------|
+| **Básico** | 30 | ComprasNET, Licitações-e, CidadeCompras, BEC |
+| **Avançado** | 50 | Todos do básico + mais |
+
+### Pontos Fortes
+
+- Modelo modular (paga só o que usa)
+- Pioneira no mercado
+- Treinamentos e workshops
+- BI de concorrentes
+
+### Pontos Fracos
+
+- Fragmentação (muitos módulos separados)
+- Precisa contratar vários módulos para ter solução completa
+- Sem IA avançada (não mencionam)
+- Sem gestão pós-licitação
+
+### Oportunidades para Blue-Copilot
+
+- Solução integrada (all-in-one)
+- IA de ponta desde o início
+- Experiência unificada
+
+---
+
+## 3. Lance Fácil
+
+### Dados Gerais
+
+| Atributo | Valor |
+|----------|-------|
+| **Site** | lancefacil.com |
+| **Foco** | Robô de lances |
+| **Diferencial** | Especialista em disputa eletrônica |
+
+### Funcionalidades
+
+| Funcionalidade | Descrição |
+|----------------|-----------|
+| Busca de editais | Multi-portal |
+| Cadastro de propostas | Automático |
+| Lances automáticos | Robô configurável |
+| Monitoramento de chat | Alertas de convocação |
+| Geração de documentos | Pós-pregão |
+
+### Portais Suportados
+
+- ComprasNET (Compras.gov.br)
+- Licitações-e (Banco do Brasil)
+- BEC (Bolsa Eletrônica de Compras SP)
+- Portal de Compras Públicas
+- Compras Bahia
+
+### Pontos Fortes
+
+- Foco em disputa (especialista)
+- Bom custo-benefício
+- Teste grátis de 7 dias
+- Suporte bem avaliado
+
+### Pontos Fracos
+
+- Menos portais que Effecti
+- Sem IA para análise de editais
+- Sem gestão completa do ciclo
+- Menos funcionalidades de BI
+
+### Oportunidades para Blue-Copilot
+
+- IA para análise de editais
+- Gestão completa (não só disputa)
+- Agentes especializados (jurídico, técnico, financeiro)
+
+---
+
+## 4. Siga Pregão
+
+### Dados Gerais
+
+| Atributo | Valor |
+|----------|-------|
+| **Site** | sigapregao.com.br |
+| **Foco** | BI e estratégia |
+| **Diferencial** | Análise de concorrentes e marcas |
+
+### Funcionalidades
+
+| Funcionalidade | Descrição |
+|----------------|-----------|
+| Busca multi-portal | 19 portais |
+| Histórico de marcas | Marcas campeãs por segmento |
+| Análise de concorrentes | Preços praticados, participações |
+| Máquina de lances | Robô automático |
+| Peças jurídicas | Banco de documentos |
+
+### Planos
+
+| Plano | Modelo |
+|-------|--------|
+| **Infinity** | Anual, funcionalidades completas |
+| **Multiempresas** | Para prestadoras (múltiplos CNPJs) |
+
+### Pontos Fortes
+
+- BI forte (análise de concorrentes)
+- Banco de peças jurídicas
+- Histórico de marcas (qual marca ganha mais)
+- Parceria com Antecipagov (antecipação de recebíveis)
+
+### Pontos Fracos
+
+- Menos automação que Effecti
+- Interface tradicional
+- Menos portais que concorrentes maiores
+
+### Oportunidades para Blue-Copilot
+
+- BI integrado desde o MVP
+- Geração de peças jurídicas por IA (não só banco estático)
+- Histórico de marcas + sugestão de produto
+
+---
+
+## 5. Outros Players
+
+### Licita Já
+
+| Atributo | Valor |
+|----------|-------|
+| **Site** | licitaja.com.br |
+| **Foco** | Boletim de licitações |
+| **Modelo** | Assinatura de alertas |
+
+Foco em captação e envio de editais filtrados. Menos automação, mais curadoria.
+
+### Alerta Licitação
+
+| Atributo | Valor |
+|----------|-------|
+| **Site** | alertalicitacao.com.br |
+| **Foco** | Agregador de licitações |
+| **Modelo** | Portal de busca |
+
+Agregador de editais com busca por CNAE, região, etc.
+
+### Mannesoft Winner
+
+- Foco em ERP para distribuidores
+- Módulo de licitações integrado
+- Parceiro da Effecti
+
+---
+
+## Comparativo de Funcionalidades
+
+| Funcionalidade | Effecti | eLicitação | Lance Fácil | Siga Pregão | Blue-Copilot |
+|----------------|---------|------------|-------------|-------------|--------------|
+| Captação de editais | ✅ | ✅ | ✅ | ✅ | ✅ MVP |
+| Filtros inteligentes | ✅ | ✅ | ✅ | ✅ | ✅ MVP |
+| Cadastro de proposta | ✅ | ✅ | ✅ | ❌ | ✅ MVP |
+| Robô de lances | ✅ | ✅ | ✅ | ✅ | ⏳ Fase 3 |
+| Alertas/Notificações | ✅ | ✅ | ✅ | ✅ | ✅ MVP |
+| App mobile | ✅ | ✅ | ❌ | ❌ | ⏳ Fase 2 |
+| IA leitura de edital | ✅ (Aimê) | ❌ | ❌ | ❌ | ✅ MVP |
+| IA geração de docs | ❌ | ❌ | ❌ | ❌ | ✅ Fase 2 |
+| Análise de concorrentes | ✅ | ✅ | ❌ | ✅ | ⏳ Fase 2 |
+| Gestão de contratos | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Gestão de empenhos | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Gestão de entregas | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Gestão de pagamentos | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Multi-CNPJ | ? | ? | ✅ | ✅ | ✅ MVP |
+| Kanban de processos | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Timeline de auditoria | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Chat interno | ❌ | ❌ | ❌ | ❌ | ✅ MVP |
+| Impugnações por IA | ❌ | ❌ | ❌ | ❌ | ✅ Fase 2 |
+| Recursos por IA | ❌ | ❌ | ❌ | ❌ | ✅ Fase 2 |
+| Contrarrazões por IA | ❌ | ❌ | ❌ | ❌ | ✅ Fase 2 |
+
+---
+
+## Comparativo de Preços (Estimativa)
+
+| Tier | Effecti | eLicitação | Lance Fácil | Blue-Copilot |
+|------|---------|------------|-------------|--------------|
+| ME/EPP | R$ 300-500 | R$ 200-400 | R$ 150-300 | **R$ 247** |
+| Média/Grande | R$ 600-1000 | R$ 400-700 | R$ 300-500 | **R$ 597** |
+| Prestadora | Sob consulta | Sob consulta | R$ 500+ | **R$ 497** |
+
+*Valores estimados com base em pesquisas e relatos. Concorrentes não publicam tabelas.*
+
+---
+
+## Gaps de Mercado Identificados
+
+### 1. Ciclo Pós-Licitação
+
+**Nenhum concorrente** oferece gestão completa de:
+- Contratos
+- Empenhos
+- Entregas
+- Pagamentos
+
+**Oportunidade:** Blue-Copilot como único CRM de ciclo completo.
+
+### 2. IA Generativa Avançada
+
+Effecti tem Aimê (leitura de editais), mas **ninguém oferece**:
+- Geração de impugnações
+- Geração de recursos
+- Geração de contrarrazões
+- Análise comparativa produto vs edital
+
+**Oportunidade:** Agentes especializados com Claude Opus 4.5.
+
+### 3. Gestão Visual (Kanban)
+
+Todos os concorrentes têm listas e filtros. **Nenhum tem Kanban** como interface principal.
+
+**Oportunidade:** Experiência visual inspirada em Linear/Notion.
+
+### 4. Preço para ME/EPP
+
+Effecti e eLicitação são caros para micro e pequenas empresas.
+
+**Oportunidade:** Plano acessível (R$ 247) com IA incluída.
+
+### 5. Auditoria e Compliance
+
+Nenhum concorrente oferece:
+- Timeline de alterações
+- Histórico de decisões
+- Rastreabilidade completa
+
+**Oportunidade:** Transparência total para prestadoras.
+
+---
+
+## Posicionamento Estratégico
+
+### Blue-Copilot vs Concorrentes
+
+| Aspecto | Concorrentes | Blue-Copilot |
+|---------|--------------|--------------|
+| **Foco** | Captação + Disputa | Ciclo completo |
+| **IA** | Básica ou inexistente | Agentes especializados |
+| **Interface** | Tradicional | Moderna (Linear-style) |
+| **Pós-licitação** | Inexistente | Completo |
+| **Preço** | Opaco, alto | Transparente, competitivo |
+| **Customização** | Baixa | Alta (você controla) |
+
+### Proposta de Valor Única
+
+> **Blue-Copilot/Helion**: O único CRM de licitações que acompanha da captação do edital até o recebimento do pagamento, com IA que não só lê editais, mas gera documentos jurídicos e analisa seus produtos automaticamente.
+
+---
+
+## Próximos Passos
+
+1. ✅ Personas definidas
+2. ✅ Análise de concorrentes
+3. ⏳ Referências de design (SaaS premium)
+4. ⏳ Moodboard visual
+5. ⏳ User Flows detalhados
+6. ⏳ Wireframes
+7. ⏳ Design System
+8. ⏳ UI final
